@@ -90,4 +90,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'employee-db-c92f9.firebasestorage.app',
     measurementId: 'G-J3R0NCN8YB',
   );
+
 }
